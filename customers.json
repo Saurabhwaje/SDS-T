@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "first_name": "Aman",
+    "last_name": "Gupta",
+    "city": "Ahmedabad",
+    "company": "SublimeDataSystems"
+  },
+  {
+    "id": 2,
+    "first_name": "John",
+    "last_name": "Doe",
+    "city": "New York",
+    "company": "TechCorp"
+  },
+  {
+    "id": 3,
+    "first_name": "Jane",
+    "last_name": "Rossi",
+    "city": "Rome",
+    "company": "InnovateTech"
+  },
+  {
+    "id": 4,
+    "first_name": "Liam",
+    "last_name": "Smith",
+    "city": "London",
+    "company": "BuildIt"
+  },
+  {
+    "id": 5,
+    "first_name": "Sophia",
+    "last_name": "Kumar",
+    "city": "Mumbai",
+    "company": "SmartSolutions"
+  },
+  {
+    "id": 6,
+    "first_name": "Emily",
+    "last_name": "Lopez",
+    "city": "Madrid",
+    "company": "FastTech"
+  },
+  {
+    "id": 7,
+    "first_name": "Oliver",
+    "last_name": "Chen",
+    "city": "Beijing",
+    "company": "NextGen"
+  },
+  {
+    "id": 8,
+    "first_name": "Lucas",
+    "last_name": "Hernandez",
+    "city": "Barcelona",
+    "company": "SmartSolutions"
+  },
+  {
+    "id": 9,
+    "first_name": "Ethan",
+    "last_name": "Wang",
+    "city": "Shanghai",
+    "company": "BuildIt"
+  },
+  {
+    "id": 10,
+    "first_name": "Mia",
+    "last_name": "Garcia",
+    "city": "Buenos Aires",
+    "company": "TechCorp"
+  }
+]
